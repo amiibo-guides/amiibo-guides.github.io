@@ -6,4 +6,4 @@ nav_order: 2
 ---
 
 # Super Smash Bros. Ultimate Characters
-Select a fighter below to view their tailored competitive amiibo training guide.
+Select a fighter below to view their competitive amiibo training guide.
