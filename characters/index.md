@@ -1,0 +1,9 @@
+---
+layout: default
+title: Characters
+has_children: true
+nav_order: 2
+---
+
+# Super Smash Bros. Ultimate Characters
+Select a fighter below to view their tailored competitive amiibo training guide.
