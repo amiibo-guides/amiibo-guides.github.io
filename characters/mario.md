@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mario Amiibo Guide
+title: Mario
 parent: Characters
 nav_order: 1
 ---
